@@ -1,0 +1,10 @@
+{
+  "name": "@root/gm-midi-show-download",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "yarn@4.9.2",
+  "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "@types/jquery": "^3.5.1"
+  }
+}

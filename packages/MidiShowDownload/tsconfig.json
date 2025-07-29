@@ -1,0 +1,7 @@
+{
+  "extends": "../../tsconfig.base",
+  "compilerOptions": {
+    "types": ["tampermonkey", "jquery", "@pnotify/core"]
+  },
+  "include": ["*.js", "*.ts"]
+}
