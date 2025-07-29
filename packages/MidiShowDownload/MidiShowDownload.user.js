@@ -4,11 +4,12 @@
 // @version      0.1.0
 // @description  MidiShow免积分下载
 // @author       LgCookie
-// @homepage     https://github.com/lgc2333/GM
+// @homepage     https://github.com/lgc2333/GM/blob/main/packages/MidiShowDownload
 // @match        https://www.midishow.com/midi/*
 // @match        https://www.midishow.com/zh-tw/midi/*
 // @match        https://www.midishow.com/en/midi/*
 // @license      MIT
+// @updateURL    https://github.com/lgc2333/GM/raw/refs/heads/main/packages/MidiShowDownload/MidiShowDownload.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
