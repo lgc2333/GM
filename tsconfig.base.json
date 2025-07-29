@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "composite": true,
+    "target": "es2022",
+    // "jsx": "react-jsx",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true,
+    "declaration": true,
+    "emitDeclarationOnly": true, // use esbuild
+    "newLine": "lf",
+    "removeComments": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
